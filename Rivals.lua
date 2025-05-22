@@ -501,7 +501,7 @@ end
 
 local Window = Fluent:CreateWindow({
     Title = "MatrixHub.lua",
-    SubTitle = "By searchblox",
+    SubTitle = "By semi",
     TabWidth = 150,
     Size = UDim2.fromOffset(580, 360),
     MinSize = Vector2.new(470, 380),
